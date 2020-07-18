@@ -41,7 +41,7 @@
         "helmet": "^3.13.0",
         "ipware": "^2.0.0",
         "jsonwebtoken": "^7.3.0",
-        "lodash": "^4.17.5",
+        "lodash": "^4.17.19",
         "moment": "^2.22.2",
         "mongoose": "^5.2.8",
         "set-interval": "^2.0.3",
